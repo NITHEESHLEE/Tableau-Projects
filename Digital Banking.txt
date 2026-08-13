@@ -1,0 +1,4 @@
+Digital Banking Credit Risk, Fraud Monitoring, and Model Performance Analytics Dashboard.
+
+The analysis is of a credit portfolio where each record contains customer profile information, lending product details, predicted risk scores, observed default and fraud outcomes, expected loss, actual loss, and profit measures. 
+The objective is to design a Tableau solution that supports credit risk monitoring, fraud review, model performance assessment, responsible lending discussion, and portfolio decision making.
